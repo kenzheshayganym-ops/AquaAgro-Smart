@@ -1,0 +1,13 @@
+{
+  "dataset_version": "1.0",
+  "data_sha256": "d9222033e5b5cecbdc8918e5814095dd862eef98c6cf3ab8f0b50cc511fdb00d",
+  "eval_input_hash": "25e867ba22c355da",
+  "eval_full_sha256": "dacecc0d3ee0fc1f0f6946881cd3d7d82e0ed26e9c9f5e38b10001ab7c7085fd",
+  "n_eval": 40,
+  "counts": {
+    "типовой": 24,
+    "пограничный": 8,
+    "отказ": 8
+  },
+  "as_of": "2026-09-30T12:00:00+05:00"
+}
