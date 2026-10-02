@@ -1,0 +1,10 @@
+.env
+.env.*
+.git
+.venv
+state
+__pycache__
+.pytest_cache
+notebooks
+reports
+*.zip
